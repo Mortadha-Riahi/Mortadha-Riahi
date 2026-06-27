@@ -77,7 +77,7 @@
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mortadha-riahi)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/mortadha-riahi](https://www.linkedin.com/in/mortadha-riahi-86213b172/))
 - 📧 mortariahi.mr@gmail.com
 - 📱 +216 23831919
 - 📍 Tunis 
